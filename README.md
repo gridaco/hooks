@@ -1,2 +1,2 @@
-# hooks
-hooks.grida.co
+# [hooks](https://hooks.grida.co)
+
